@@ -30,6 +30,7 @@ A curated list of awesome things related to Quill
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module to allow images to be pasted and drag/dropped into the editor
 - [quill-image-resize-module](https://github.com/kensnyder/quill-image-resize-module) - A module to allow images to be resized.
 - [quill-image-url-drop-module](https://github.com/riencroonenborghs/quill-image-url-drop-module) - A module to allow images' URLs to be drag/dropped into the editor
+- [quill-magic-url](https://github.com/visualjerk/quill-magic-url) - Checks for URLs during typing / pasting and automatically converts them to links
 - [quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts) - Quill.js module that converts markdown to rich text formatting while typing
 - [quill-placeholder-module](https://github.com/jspaine/quill-placeholder-module) - A quill module for adding placeholders
 
