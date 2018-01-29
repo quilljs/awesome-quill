@@ -33,6 +33,7 @@ A curated list of awesome things related to Quill
 - [quill-magic-url](https://github.com/visualjerk/quill-magic-url) - Checks for URLs during typing / pasting and automatically converts them to links
 - [quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts) - Quill.js module that converts markdown to rich text formatting while typing
 - [quill-placeholder-module](https://github.com/jspaine/quill-placeholder-module) - A quill module for adding placeholders
+- [quill-focus](https://amka.github.io/quill-focus/) - A Quill.js module that adds "focus mode".
 
 
 ### Deltas
