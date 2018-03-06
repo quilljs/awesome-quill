@@ -47,6 +47,7 @@ A curated list of awesome things related to Quill
 
 ### Other
 
+- [Ray](https://github.com/teslor/ray) - Desktop Quill based rich text editor for creating and organizing personal notes
 - [quill-sharedb-cursors](https://github.com/pedrosanta/quill-sharedb-cursors) - Collaborative editing with multi cursors sync using Quill and ShareDB
 - [yii2-quill](https://github.com/bizley/yii2-quill) - Yii 2 implementation of Quill, modern WYSIWYG editor
 
