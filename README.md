@@ -40,6 +40,7 @@ A curated list of awesome things related to Quill
 
 ### Deltas
 
+- [android-quill-delta](https://github.com/volser/android-quill-delta) - A Kotlin implementation of Delta
 - [php-quill-renderer](https://github.com/deanblackborough/php-quill-renderer) - Render quill insert deltas to HTML and Markdown
 - [quill-delta-to-html](https://github.com/nozer/quill-delta-to-html) - Converts Quill's delta ops to HTML
 - [go-render-quill](https://github.com/dchenk/go-render-quill) - A Go package to render Quill deltas into HTML
