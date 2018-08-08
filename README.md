@@ -26,6 +26,7 @@ A curated list of awesome things related to Quill
 
 ### Modules
 
+- [quill-blot-formatter](https://github.com/Fandom-OSS/quill-blot-formatter) - A module for resizing and realigning images and iframe videos
 - [quill-cursors](https://github.com/reedsy/quill-cursors) - A multi cursor module for Quill text editor
 - [quill-emoji](https://github.com/contentco/quill-emoji) - Quill module toolbar extension for emoji
 - [quill-focus](https://amka.github.io/quill-focus/) - A Quill.js module that adds "focus mode"
