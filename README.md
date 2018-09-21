@@ -36,6 +36,7 @@ A curated list of awesome things related to Quill
 - [quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts) - Quill.js module that converts markdown to rich text formatting while typing
 - [quill-mention](https://github.com/afconsult/quill-mention) - @mentions for the Quill rich text editor
 - [quill-placeholder-module](https://github.com/jspaine/quill-placeholder-module) - A quill module for adding placeholders
+- [quill-placeholder-autocomplete-module](https://github.com/Datananas/quill-placeholder-autocomplete) - brings autocomplete to "quill-placeholder-module"
 
 
 ### Deltas
