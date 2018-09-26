@@ -29,6 +29,7 @@ A curated list of awesome things related to Quill
 - [quill-cursors](https://github.com/reedsy/quill-cursors) - A multi cursor module for Quill text editor
 - [quill-emoji](https://github.com/contentco/quill-emoji) - Quill module toolbar extension for emoji
 - [quill-focus](https://amka.github.io/quill-focus/) - A Quill.js module that adds "focus mode"
+- [quill-form](https://github.com/weavy/quill-form) - Module for automatic form input and submit binding
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module to allow images to be pasted and drag/dropped into the editor
 - [quill-image-resize-module](https://github.com/kensnyder/quill-image-resize-module) - A module to allow images to be resized.
 - [quill-image-url-drop-module](https://github.com/riencroonenborghs/quill-image-url-drop-module) - A module to allow images' URLs to be drag/dropped into the editor
