@@ -21,6 +21,7 @@ A curated list of awesome things related to Quill
 - [polymer-quill](https://github.com/chuckh/polymer-quill) - Polymer Quill Rich Text Editor
 - [quill-element](https://github.com/dmonad/quill-element) - Polymer Web Component of the awesome Quill richtext editor
 - [react-quill](https://github.com/zenoamaro/react-quill) - A Quill component for React
+- [stencil-quill](https://github.com/KillerCodeMonkey/stencil-quill) - Native web component for the Quill Rich Text Editor built with stencil
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - Quill editor component for Vue, supports SPA and SSR
 - [vue2-editor](https://www.npmjs.com/package/vue2-editor) - A Quill component for Vue
 
