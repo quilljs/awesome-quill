@@ -62,6 +62,8 @@ A curated list of awesome things related to Quill
 - [quill-sharedb-cursors](https://github.com/pedrosanta/quill-sharedb-cursors) - Collaborative editing with multi cursors sync using Quill and ShareDB
 - [Superscript](http://superscriptapp.com) - Comic book script editor for Windows and macOS, built on Quill
 - [yii2-quill](https://github.com/bizley/yii2-quill) - Yii 2 implementation of Quill, modern WYSIWYG editor
+- [quill-dropzone](https://github.com/swim/quill-dropzone) - Provides Dropzone.js integration with Quill editor.
+
 
 
 # Contributing
