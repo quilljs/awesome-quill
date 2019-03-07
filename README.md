@@ -65,7 +65,6 @@ A curated list of awesome things related to Quill
 - [quill-dropzone](https://github.com/swim/quill-dropzone) - Provides Dropzone.js integration with Quill editor.
 
 
-
 # Contributing
 
 Please follow the [Contributing Guidelines](https://github.com/quilljs/awesome-quill/blob/master/CONTRIBUTING.md)
