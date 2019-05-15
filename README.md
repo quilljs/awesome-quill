@@ -29,6 +29,7 @@ A curated list of awesome things related to Quill
 ### Modules
 
 - [quill-autoformat](https://github.com/weavy/quill-autoformat) - Module for transforming text including mentions, links and hashtags
+- [quill-better-table](https://github.com/soccerloway/quill-better-table) - A module for table editting, surpport resizing column, multiline cell, merging/unmerging cells
 - [quill-blot-formatter](https://github.com/Fandom-OSS/quill-blot-formatter) - A module for resizing and realigning images and iframe videos
 - [quill-cursors](https://github.com/reedsy/quill-cursors) - A multi cursor module for Quill text editor
 - [quill-emoji](https://github.com/contentco/quill-emoji) - Quill module toolbar extension for emoji
