@@ -46,7 +46,7 @@ A curated list of awesome things related to Quill
 - [quill-placeholder-module](https://github.com/jspaine/quill-placeholder-module) - A quill module for adding placeholders
 - [quill-placeholder-autocomplete-module](https://github.com/Datananas/quill-placeholder-autocomplete) - brings autocomplete to "quill-placeholder-module"
 - [quill-rich-voice-editor](https://github.com/fabiancelik/rich-voice-editor) - A Quill.js module for SSML tags and functions to build better voice applications
-
+- [quill-find-replace-module](https://github.com/MuhammedAlkhudiry/quill-find-replace-module) - A module for Quill.js for finding words and replacing them.
 
 ### Deltas
 
