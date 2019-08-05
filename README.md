@@ -35,6 +35,7 @@ A curated list of awesome things related to Quill
 - [quill-emoji](https://github.com/contentco/quill-emoji) - Quill module toolbar extension for emoji
 - [quill-focus](https://amka.github.io/quill-focus/) - A Quill.js module that adds "focus mode"
 - [quill-form](https://github.com/weavy/quill-form) - Module for automatic form input and submit binding
+- [quill-find-replace-module](https://github.com/MuhammedAlkhudiry/quill-find-replace-module) - A module for Quill.js for finding words and replacing them
 - [quill-image-compress](https://github.com/benwinding/quill-image-compress) - A module to compress images before adding them to the editor.
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module to allow images to be pasted and drag/dropped into the editor
 - [quill-image-resize-module](https://github.com/kensnyder/quill-image-resize-module) - A module to allow images to be resized (not maintained: use quill-blot-formatter instead)
@@ -46,7 +47,6 @@ A curated list of awesome things related to Quill
 - [quill-placeholder-module](https://github.com/jspaine/quill-placeholder-module) - A quill module for adding placeholders
 - [quill-placeholder-autocomplete-module](https://github.com/Datananas/quill-placeholder-autocomplete) - brings autocomplete to "quill-placeholder-module"
 - [quill-rich-voice-editor](https://github.com/fabiancelik/rich-voice-editor) - A Quill.js module for SSML tags and functions to build better voice applications
-- [quill-find-replace-module](https://github.com/MuhammedAlkhudiry/quill-find-replace-module) - A module for Quill.js for finding words and replacing them.
 
 ### Deltas
 
