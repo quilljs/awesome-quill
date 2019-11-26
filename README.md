@@ -13,6 +13,7 @@ A curated list of awesome things related to Quill
 
 ### Component Libraries
 
+- [Blazored TextEditor](https://github.com/Blazored/TextEditor) - Blazor version of Quill
 - [bootstrap-quill](https://github.com/weavy/bootstrap-quill) - Bootstrap 4 version of Quill
 - [ember-quill](https://gitlab.com/noppo/ember-quill) - A Quill Component for Ember.js
 - [ng-quill](https://github.com/KillerCodeMonkey/ng-quill) - Angular Directive for Quill rich text editor
