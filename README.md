@@ -53,6 +53,7 @@ A curated list of awesome things related to Quill
 ### Deltas
 
 - [android-quill-delta](https://github.com/volser/android-quill-delta) - A Kotlin implementation of Delta
+- [md-to-quill-delta](https://github.com/volser/md-to-quill-delta) - Convert Markdown to Quill delta
 - [node-quill-converter](https://github.com/joelcolucci/node-quill-converter) Convert strings/html to a Quill delta or a delta to HTML in NodeJS
 - [quill-delta-parser](https://github.com/nadar/quill-delta-parser) - PHP library to render quill deltas to HTML, easy to extend when using custom delta code from plugins
 - [quill-delta-python](https://github.com/forgeworks/quill-delta-python) - Python implementation of Delta with an optional extension to render HTML
