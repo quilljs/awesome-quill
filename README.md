@@ -36,11 +36,11 @@ A curated list of awesome things related to Quill
 - [quill-focus](https://amka.github.io/quill-focus/) - A Quill.js module that adds "focus mode"
 - [quill-form](https://github.com/weavy/quill-form) - Module for automatic form input and submit binding
 - [quill-find-replace-module](https://github.com/MuhammedAlkhudiry/quill-find-replace-module) - A module for Quill.js for finding words and replacing them
+- [quill-html-edit-button](https://github.com/benwinding/quill-html-edit-button) - A module to add a button which allows you to view/edit the raw HTML in the quill editor.
 - [quill-image-compress](https://github.com/benwinding/quill-image-compress) - A module to compress images before adding them to the editor.
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module to allow images to be pasted and drag/dropped into the editor
 - [quill-image-resize-module](https://github.com/kensnyder/quill-image-resize-module) - A module to allow images to be resized (not maintained: use quill-blot-formatter instead)
 - [quill-image-url-drop-module](https://github.com/riencroonenborghs/quill-image-url-drop-module) - A module to allow images' URLs to be drag/dropped into the editor
-- [quill-html-edit-button](https://github.com/benwinding/quill-html-edit-button) - A module to add a button which allows you to view/edit the raw HTML in the quill editor.
 - [quill-magic-url](https://github.com/visualjerk/quill-magic-url) - Checks for URLs during typing / pasting and automatically converts them to links
 - [quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts) - Quill.js module that converts markdown to rich text formatting while typing
 - [quill-markdown-toolbar](https://github.com/park53kr/quill-markdown-toolbar) - A Quill.js module for converting markdown text to rich text format
