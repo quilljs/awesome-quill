@@ -71,6 +71,7 @@ A curated list of awesome things related to Quill
 - [Ray](https://github.com/teslor/ray) - Desktop Quill based rich text editor for creating and organizing personal notes
 - [Superscript](http://superscriptapp.com) - Comic book script editor for Windows and macOS, built on Quill
 - [yii2-quill](https://github.com/bizley/yii2-quill) - Yii 2 implementation of Quill, modern WYSIWYG editor
+- [miks-collaborative-editor](https://github.com/we-miks/collaborative-editor) Collaborative editor supports authorship display, Chinese/Japanese/Korean characters composition and image uploading placeholder using Quill and ShareDB
 
 
 
