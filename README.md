@@ -40,7 +40,7 @@ A curated list of awesome things related to Quill
 - [quill-image-compress](https://github.com/benwinding/quill-image-compress) - A module to compress images before adding them to the editor.
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module to allow images to be pasted and drag/dropped into the editor
 - [quill-image-resize-module](https://github.com/kensnyder/quill-image-resize-module) - A module to allow images to be resized (not maintained: use quill-blot-formatter instead)
-- [quill-image-uploader](https://github.com/NoelOConnell/quill-image-uploaderl) - Upload image to server, adds toolbar button and handles dropped/pastes images
+- [quill-image-uploader](https://github.com/NoelOConnell/quill-image-uploader) - Upload image to server, adds toolbar button and handles dropped/pastes images
 - [quill-image-url-drop-module](https://github.com/riencroonenborghs/quill-image-url-drop-module) - A module to allow images' URLs to be drag/dropped into the editor
 - [quill-magic-url](https://github.com/visualjerk/quill-magic-url) - Checks for URLs during typing / pasting and automatically converts them to links
 - [quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts) - Quill.js module that converts markdown to rich text formatting while typing
@@ -83,4 +83,3 @@ Please follow the [Contributing Guidelines](https://github.com/quilljs/awesome-q
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
