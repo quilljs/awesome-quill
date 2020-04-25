@@ -62,7 +62,7 @@ A curated list of awesome things related to Quill
 - [quill-delta-to-html](https://github.com/nozer/quill-delta-to-html) - Converts Quill's delta ops to HTML
 - [go-render-quill](https://github.com/dchenk/go-render-quill) - A Go package to render Quill deltas into HTML
 - [quill-render](https://github.com/casetext/quill-render) - Renders quilljs deltas into HTML
-- [quilljs-renderer](https://github.com/UmbraEngineering/quilljs-renderer) - Renders an insert-only Quilljs delta into various format like HTML (FYI: project has no license)
+- [quilljs-renderer](https://github.com/UmbraEngineering/quilljs-renderer) - Renders an insert-only Quilljs delta into various format like HTML
 
 
 ### Other
