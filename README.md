@@ -37,6 +37,7 @@ A curated list of awesome things related to Quill
 - [quill-focus](https://amka.github.io/quill-focus/) - A Quill.js module that adds "focus mode"
 - [quill-form](https://github.com/weavy/quill-form) - Module for automatic form input and submit binding
 - [quill-find-replace-module](https://github.com/MuhammedAlkhudiry/quill-find-replace-module) - A module for Quill.js for finding words and replacing them
+- [quill-find-replace-module-2](https://github.com/chewax/quill-find-replace-module) - Based on quill-find-replace-module. Find, replace, navigate back and forth and use regexp on search.
 - [quill-html-edit-button](https://github.com/benwinding/quill-html-edit-button) - A module to add a button which allows you to view/edit the raw HTML in the quill editor.
 - [quill-image-compress](https://github.com/benwinding/quill-image-compress) - A module to compress images before adding them to the editor.
 - [quill-image-drop-module](https://github.com/kensnyder/quill-image-drop-module) - A module to allow images to be pasted and drag/dropped into the editor
