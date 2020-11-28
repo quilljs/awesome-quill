@@ -53,6 +53,7 @@ A curated list of awesome things related to Quill
 - [quill-rich-voice-editor](https://github.com/fabiancelik/rich-voice-editor) - A Quill.js module for SSML tags and functions to build better voice applications
 - [quill-table-ui](https://github.com/volser/quill-table-ui) - A module for table UI
 
+
 ### Deltas
 
 - [android-quill-delta](https://github.com/volser/android-quill-delta) - A Kotlin implementation of Delta
@@ -72,9 +73,9 @@ A curated list of awesome things related to Quill
 - [quill-dropzone](https://github.com/swim/quill-dropzone) - Provides Dropzone.js integration with Quill editor.
 - [quill-sharedb-cursors](https://github.com/pedrosanta/quill-sharedb-cursors) - Collaborative editing with multi cursors sync using Quill and ShareDB
 - [Ray](https://github.com/teslor/ray) - Desktop Quill based rich text editor for creating and organizing personal notes
+- [Simplest-File-Renamer](https://github.com/whyboris/Simplest-File-Renamer) - File renaming utility built with Electron, Angular, and Quill
 - [Superscript](http://superscriptapp.com) - Comic book script editor for Windows and macOS, built on Quill
 - [yii2-quill](https://github.com/bizley/yii2-quill) - Yii 2 implementation of Quill, modern WYSIWYG editor
-
 
 
 # Contributing
