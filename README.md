@@ -25,7 +25,7 @@ A curated list of awesome things related to Quill
 - [stencil-quill](https://github.com/KillerCodeMonkey/stencil-quill) - Native web component for the Quill Rich Text Editor built with stencil
 - [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) - Quill editor component for Vue, supports SPA and SSR
 - [vue2-editor](https://www.npmjs.com/package/vue2-editor) - A Quill component for Vue
-- [vueup-quill](https://github.com/vueup/vueup-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a [Live Demo](https://vueup.github.io/vueup-quill/#demo)
+- [vue-quill](https://github.com/vueup/vue-quill) - ✒️📝 A Vue 3 rich text editor component based on Quill Editor. See a [Live Demo](https://vueup.github.io/vue-quill/#demo)
 
 
 ### Modules
