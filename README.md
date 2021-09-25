@@ -29,6 +29,7 @@ A curated list of awesome things related to Quill
 
 ### Modules
 
+- [quill-attachments](https://github.com/CHNB128/quill-attachments) - Highly customizable attachments module for handing upload files to server
 - [quill-autoformat](https://github.com/weavy/quill-autoformat) - Module for transforming text including mentions, links and hashtags
 - [quill-better-table](https://github.com/soccerloway/quill-better-table) - A module for table editting, support resizing column, multiline cell, merging/unmerging cells
 - [quill-blot-formatter](https://github.com/Fandom-OSS/quill-blot-formatter) - A module for resizing and realigning images and iframe videos
