@@ -44,7 +44,7 @@ A curated list of awesome things related to Quill
 - [quill-image-uploader](https://github.com/NoelOConnell/quill-image-uploader) - Upload image to server, adds toolbar button and handles dropped/pastes images
 - [quill-image-url-drop-module](https://github.com/riencroonenborghs/quill-image-url-drop-module) - A module to allow images' URLs to be drag/dropped into the editor
 - [quill-magic-url](https://github.com/visualjerk/quill-magic-url) - Checks for URLs during typing / pasting and automatically converts them to links
-- [quill-markdown-shortcuts](https://github.com/patleeman/quill-markdown-shortcuts) - Quill.js module that converts markdown to rich text formatting while typing
+- [quilljs-markdown](https://github.com/cloverhearts/quilljs-markdown)
 - [quill-markdown-toolbar](https://github.com/park53kr/quill-markdown-toolbar) - A Quill.js module for converting markdown text to rich text format
 - [quill-mention](https://github.com/afconsult/quill-mention) - @mentions for the Quill rich text editor
 - [quill-paste-smart](https://github.com/Artem-Schander/quill-paste-smart) - Paste only supported HTML
