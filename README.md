@@ -65,6 +65,7 @@ A curated list of awesome things related to Quill
 - [go-render-quill](https://github.com/dchenk/go-render-quill) - A Go package to render Quill deltas into HTML
 - [quill-render](https://github.com/casetext/quill-render) - Renders quilljs deltas into HTML
 - [quilljs-renderer](https://github.com/UmbraEngineering/quilljs-renderer) - Renders an insert-only Quilljs delta into various format like HTML
+- [django-quill-editor](https://github.com/LeeHanYeong/django-quill-editor) - django-quill-editor makes Quill.js easy to use on Django Forms and admin sites
 
 
 ### Other
