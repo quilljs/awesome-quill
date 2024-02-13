@@ -52,6 +52,7 @@ A curated list of awesome things related to Quill
 - [quill-placeholder-autocomplete-module](https://github.com/Datananas/quill-placeholder-autocomplete) - brings autocomplete to "quill-placeholder-module"
 - [quill-rich-voice-editor](https://github.com/fabiancelik/rich-voice-editor) - A Quill.js module for SSML tags and functions to build better voice applications
 - [quill-table-ui](https://github.com/volser/quill-table-ui) - A module for table UI
+- [quill-footnotes](https://quill-footnotes.com) - A module for inserting footnotes.
 
 ### Deltas
 
